@@ -101,14 +101,14 @@
     <feature name="InAppBrowser">
       <param name="android-package" value="org.apache.cordova.InAppBrowser"/>
     </feature>
-     <feature name="EmailComposer">
-      <param name="android-package" value="org.apache.cordova.EmailComposer"/>
-    </feature>
     <feature name="VideoPlayer">
       <param name="android-package" value="com.phonegap.plugins.video.VideoPlayer"/>
     </feature>
     <feature name="AudioPlayer">
       <param name="android-package" value="com.phonegap.plugins.audio.AudioPlayer"/>
+    </feature>
+    <feature name="EmailComposer">
+      <param name="android-package" value="org.apache.cordova.EmailComposer"/>
     </feature>
     <!-- Deprecated plugins element. Remove in 3.0 -->
     <plugins>
